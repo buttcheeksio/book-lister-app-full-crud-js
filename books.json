@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "title": "Perdido Street Station",
+      "author": "China Mieville",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51NhYr--GQL.jpg",
+      "description": "Perdido Street Station is a weird fantasy novel by British writer China Miéville, the first of three independent works set in the fictional world of Bas-Lag, a place where both magic and steampunk technology exist. The novel has won several literary awards.",
+      "id": 2
+    }
+  ]
+}
